@@ -1,5 +1,25 @@
 
-<a href="https://vladmihalcea.com/hypersistence-optimizer/">Hypersistence Optimizer</a>
+<div id="navbar" class="header-navigation">
+
+				<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+					<h3 class="menu-toggle">Menu</h3>
+					<div class="menu-primary-container"><ul id="menu-primary" class="nav-menu"><li id="menu-item-93" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93"><a href="https://vladmihalcea.com/hypersistence-optimizer/">Hypersistence Optimizer</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a href="https://vladmihalcea.com/books/high-performance-java-persistence/">Books</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="https://vladmihalcea.com/courses">Courses</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38"><a href="https://vladmihalcea.com/trainings/">Training</a></li>
+<li id="menu-item-120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-120"><a href="https://vladmihalcea.com/consulting/">Consulting</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="http://vladmihalcea.com/blog/">Blog</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://hypersistence.io/contact/">Contact</a></li>
+</ul></div>					<form role="search" method="get" class="search-form" action="https://hypersistence.io/" wtx-context="8962A98F-9C25-4E55-8416-03DD6734634B">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search …" value="" name="s" wtx-context="D4C0CAF5-0D1E-43DA-846C-D2887920EFDE">
+				</label>
+				<input type="submit" class="search-submit" value="Search" wtx-context="E965579B-F710-490C-8E3F-72896D517BD4">
+			</form>				</nav><!-- #site-navigation .navigation .main-navigation -->
+
+			</div>
+
 We love data!
 Hypersistence is a software company offering optimization software, training, and consulting in relation to high-performance data access, enterprise software architectures, and database systems.
 
