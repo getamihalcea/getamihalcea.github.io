@@ -1,10 +1,5 @@
 
 <header id="masthead" class="site-header" role="banner">
-			
-			<a class="home-link" href="https://hypersistence.io/" title="Hypersistence" rel="home">
-				<h1 class="site-title">Hypersistence</h1>
-				<h2 class="site-description"></h2>
-			</a><!-- #navbar .header-navigation -->
 
 			<div id="navbar" class="header-navigation">
 
