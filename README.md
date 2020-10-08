@@ -1,5 +1,12 @@
 
-<div id="navbar" class="header-navigation">
+<header id="masthead" class="site-header" role="banner">
+			
+			<a class="home-link" href="https://hypersistence.io/" title="Hypersistence" rel="home">
+				<h1 class="site-title">Hypersistence</h1>
+				<h2 class="site-description"></h2>
+			</a><!-- #navbar .header-navigation -->
+
+			<div id="navbar" class="header-navigation">
 
 				<nav id="site-navigation" class="navigation main-navigation" role="navigation">
 					<h3 class="menu-toggle">Menu</h3>
@@ -18,8 +25,11 @@
 				<input type="submit" class="search-submit" value="Search" wtx-context="E965579B-F710-490C-8E3F-72896D517BD4">
 			</form>				</nav><!-- #site-navigation .navigation .main-navigation -->
 
-			</div>
+			</div><!-- #navbar .header-navigation -->
 
+		</header>
+		
+		
 We love data!
 Hypersistence is a software company offering optimization software, training, and consulting in relation to high-performance data access, enterprise software architectures, and database systems.
 
