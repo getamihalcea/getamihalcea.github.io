@@ -1,10 +1,14 @@
 
-
-## Welcome to GitHub Pages
-
-# TESTING
-
 <a href="https://vladmihalcea.com/hypersistence-optimizer/">Hypersistence Optimizer</a>
+We love data!
+Hypersistence is a software company offering optimization software, training, and consulting in relation to high-performance data access, enterprise software architectures, and database systems.
+
+Optimizer
+The Hypersistence Optimizer framework allows you to detect JPA and Hibernate mapping and configuration issues. Besides providing you a very detailed report about the issues found in your application, you can configure Hypersistence Optimizer to prevent the build from succeeding when a given performance issue is detected.
+
+Check out the following video demonstration to get a better idea of how Hypersistence Optimizer can help you speed up your application.
+
+
 
 You can use the [editor on GitHub](https://github.com/getamihalcea/getamihalcea.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
